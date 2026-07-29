@@ -1,4 +1,4 @@
-# Neuroimaging-FABRIC
+# Neuroimaging Workflows on FABRIC
 Benchmarking Neuroimaging Workflows on FABRIC
 
 # Publications
